@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0-a83752519c01ad2ba20bc016f010d047b228f261.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-46f488f7d72c0fb9df87cb06e8bef61db968a78e.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-b4805c3dc551e8addcdfe83006eb2e2069d3f69f.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-ae9b863311f49a782185bfb452b8025793af85c8.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-551fcf9ef8ced75a4427f5325a0b04b927bbc6d8.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-6db8596527299483a1c78cde60b6f99bc6ca6ec4.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-ae8a2d517b50dadc2316914ab7a8fef2dd55ff44.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\internal_impl-23.0.1-53ebccd6957eae402619b61eb9aa1bcfe6412795.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-82208e424cfb07dd2e824491d66326fe47e38324.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-b0e1490f23c0dbfdbfc3758d5ddbb5797a31a832.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-5ca4f3c4ceb3497993ee5090b90b68d342d08305.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-91f14afccf4f9b128d77971c312d04c72be9b9b2.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\picasso-2.5.2-d5bec1e1487040bd2c9123b6e888f1b4be0efe43.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-573c3b2aaaf01ebf77281ed216568a2ea3f0c246.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-a8918f74546ee3dbc7aab13fd9ad1bdefcfba1e4.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-45660a059bb6516ad74f106ddad15558da1321a7.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-06bb6aa3532cad2f72f9a491dcfa9f789652485a.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-5ea43269e3d3187e6497d7779423f50b4fc34bff.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-fd08227504f10de6b4d78f74ae597a0d2aefb18a.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-2860974386ac4b08f6a12417bd995d5e02621f51.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-5f62b99f9a03e7211ba8a7ef5d37a1eef4ccbc07.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\libs\bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\bolts-android-1.2.1-356a198f80105d5433eee2afd667d2e7d02573d1.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-bd9cd78c2b2b05cb0bac95cd557b8ebfb4ca5059.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-2fb1833e1229b2d3c16924247c7edace660836b0.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-639a1f6c50ea7c1445d2d4ef22bb93066db0ed9e.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-d2d196a238fd91f1ecc29026aa1b7094a38bb2a5.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-bf2df50e305199281387ce896dbe56b24e2f28f7.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-8bfa0ec9e1351415c9abfbc54a45c608f2ff053c.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-592dccf9b817f993704d090afb9295185454a9e3.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\classes-c20afcc1740d79820e65179484dbec29bb5f60ea.jar" />
+    </item>
+    <item
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\support-annotations-23.0.1-83676807229e344ee5d98b2e8f5ee90735dbc5c3.jar" />
+    </item>
+    <item
+        jar="C:\java\android\EventHunter\app\libs\Parse-1.10.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a859414011ce2c18187acc83319688e6bd340635">
+        <dex dex="C:\java\android\EventHunter\app\build\intermediates\pre-dexed\release\Parse-1.10.2-f8eed9251efacb5d0a80a34ce562ec64118b8c3d.jar" />
+    </item>
+
+</items>

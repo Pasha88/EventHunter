@@ -1,0 +1,144 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="100"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    tools:context="com.cityprograms.eventhunter.MainActivity">
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_weight="90"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:background="@drawable/logo_event_hunter"
+            android:onClick="sortByDistance"
+            android:id="@+id/buttonLogo"
+
+            android:layout_marginLeft="5dp"/>
+
+
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/bt_dis"
+            android:onClick="sortByDistance"
+            android:id="@+id/buttonDistance"
+
+            android:layout_marginLeft="25dp"
+            />
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/bt_price"
+            android:onClick="sortByPrice"
+            android:id="@+id/buttonPrice"
+            android:layout_marginLeft="10dp" />
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/bt_rate"
+            android:onClick="sortByRating"
+            android:id="@+id/buttonRating"
+            android:layout_marginLeft="10dp" />
+        <Button
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/bt_review"
+            android:onClick="sortByReviews"
+            android:id="@+id/buttonReviews"
+            android:layout_marginLeft="10dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_weight="10"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="51dp"
+            android:layout_height="match_parent">
+
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:contentDescription="Кино"
+                android:background="@drawable/bt_kino"
+                android:onClick="sortByDistance"
+                android:id="@+id/buttonDistance33"
+
+                android:layout_marginTop="57dp" />
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/bt_fest"
+                android:onClick="sortByDistance"
+                android:id="@+id/buttonDistance333"
+                />
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/bt_exhibit"
+                android:onClick="sortByDistance"
+                android:id="@+id/buttonDistance4"
+                />
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/bt_party"
+                android:onClick="sortByDistance"
+                android:id="@+id/buttonDistance5"
+                />
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/bt_concert"
+                android:onClick="sortByDistance"
+                android:id="@+id/buttonDistance7"
+                />
+            <Button
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/bt_theat"
+                android:onClick="sortByDistance"
+                android:id="@+id/buttonDistance3"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v4.view.ViewPager
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/pager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <android.support.v4.view.PagerTabStripV22
+                    android:layout_width="fill_parent"
+                    android:layout_height="30dp"
+                    >
+
+                </android.support.v4.view.PagerTabStripV22>
+
+            </android.support.v4.view.ViewPager>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+
+

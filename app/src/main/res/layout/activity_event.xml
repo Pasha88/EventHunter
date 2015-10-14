@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1">
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center_vertical"
+            android:singleLine="true"
+            android:textStyle="bold"
+            android:text="HEAD"
+            android:id="@+id/textHead"
+            android:layout_marginLeft="10dp" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:weightSum="100"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_weight="75"
+            android:layout_width="130dp"
+            android:layout_height="180dp"
+            >
+
+            <ImageView
+                android:layout_width="110dp"
+                android:layout_height="126dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="2dp"
+                android:id="@+id/imageViewPicasso"
+                android:src="@mipmap/ic_launcher"
+                />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/bt_site"
+                    android:id="@+id/button2" />
+
+
+                <Button
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="10dp"
+                    android:background="@drawable/bt_call"
+                    android:id="@+id/button3" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="248dp"
+            android:layout_height="180dp"
+            android:layout_weight="25"
+            android:layout_marginRight="10dp">
+
+
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="250dp"
+                android:layout_height="40dp"
+                android:weightSum="100"
+                >
+
+
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="24"
+                    android:maxLength="5"
+                    android:singleLine="true"
+                    android:textStyle="bold"
+                    android:text="Дист."
+                    android:id="@+id/textDistance"
+                    android:layout_marginLeft="10dp" />
+                <View android:background="#000000"
+                    android:layout_width = "1dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical ="true"/>
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_weight="24"
+                    android:textStyle="bold"
+                    android:singleLine="true"
+                    android:maxLength="5"
+                    android:text="Цена"
+                    android:id="@+id/textPrice"
+                    android:layout_marginLeft="10dp"
+                    />
+                <View android:background="#000000"
+                    android:layout_width = "1dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical ="true"/>
+
+
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_weight="24"
+                    android:maxLength="5"
+                    android:singleLine="true"
+
+                    android:textStyle="bold"
+                    android:text="Рейт."
+                    android:id="@+id/textRating"
+                    android:layout_marginLeft="10dp"
+                    />
+                <View android:background="#000000"
+                    android:layout_width = "1dp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical ="true"/>
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_weight="24"
+                    android:textStyle="bold"
+                    android:maxLength="5"
+                    android:singleLine="true"
+                    android:text="Отзв."
+                    android:id="@+id/textReviews"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginLeft="10dp"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="250dp"
+                android:layout_height="70dp"
+                android:weightSum="100"
+                >
+
+
+                <Button
+                    android:layout_width="50dp"
+                    android:layout_height="60dp"
+                    android:layout_weight="24"
+                    android:contentDescription="wasdasda"
+                    android:id="@+id/buttonEventType"
+                    android:background="@drawable/bt_party" />
+
+                <Button
+                    android:layout_width="50dp"
+                    android:layout_height="60dp"
+                    android:layout_weight="24"
+                    android:contentDescription="wasdasda"
+                    android:background="@drawable/scedule_black"
+                    android:id="@+id/buttonSchedule" />
+
+
+                <TextView
+                    android:layout_width="40dp"
+                    android:layout_height="50dp"
+                    android:textStyle="bold"
+                    android:layout_gravity="center"
+                    android:singleLine="true"
+                    android:layout_weight="24"
+                    android:maxLength="5"
+                    android:text="15:00"
+                    android:id="@+id/textSchedule"
+                    android:layout_marginLeft="5dp"
+                    android:paddingLeft="7dp" />
+
+                <Button
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_weight="24"
+                    android:contentDescription="wasdasda"
+                    android:background="@drawable/new_black"
+                    android:id="@+id/buttonNew"
+                    android:layout_marginRight="25dp" />
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Адресс"
+                android:id="@+id/textAddress" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:layout_width="120dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/bt_buy_background"
+                    android:textSize="12dp"
+                    android:text="Купить Билет"
+                    android:id="@+id/button4" />
+
+                <Button
+                    android:layout_width="120dp"
+                    android:layout_height="40dp"
+                    android:background="@drawable/bt_kupon_background"
+                    android:textSize="12dp"
+                    android:layout_marginLeft="2dp"
+                    android:text="Получить Купон"
+                    android:id="@+id/button5" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="105dp"
+        android:layout_marginRight="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Здесь будет описание какого-то события, которое когда-то произошло, но никто не знает когда и с кем"
+            android:id="@+id/textDescription" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp">
+
+            <EditText
+                android:layout_width="113dp"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:text="Имя"
+                android:ems="10"
+                android:id="@+id/editName" />
+
+
+
+            <Button
+                android:layout_width="180dp"
+                android:layout_height="40dp"
+                android:background="@drawable/bt_buy_background"
+                android:onClick="pushCommentOnTheServer"
+                android:text="Оставить отзыв"
+                android:id="@+id/button" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="116dp">
+
+            <RatingBar
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/ratingBar" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fillViewport="true"
+                android:id="@+id/editComment"
+                android:inputType="none" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v4.view.ViewPager
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/pagerEvent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+
+                <android.support.v4.view.PagerTabStripV22
+                    android:layout_width="fill_parent"
+                    android:layout_height="25dp"
+                    >
+
+                </android.support.v4.view.PagerTabStripV22>
+
+            </android.support.v4.view.ViewPager>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
